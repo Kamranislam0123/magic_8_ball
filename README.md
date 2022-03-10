@@ -1,4 +1,5 @@
 # magic_8_ball
+![Screenshot 2022-03-10 122400](https://user-images.githubusercontent.com/17380019/157601933-a55191c6-3624-4435-b134-689cd7d7a71d.png)
 
 A new Flutter project.
 
@@ -14,3 +15,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
